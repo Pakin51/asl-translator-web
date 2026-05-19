@@ -1,0 +1,13 @@
+# ละเว้นโฟลเดอร์ Virtual Environment
+backend/venv/
+venv/
+env/
+
+# (แนะนำเพิ่มเติม) ละเว้นไฟล์อื่นๆ ที่ไม่ควรเอาขึ้น Git
+__pycache__/
+*.pyc
+.env
+
+# สำหรับฝั่ง Frontend (React/Vite)
+frontend/node_modules/
+frontend/dist/
