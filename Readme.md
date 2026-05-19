@@ -4,7 +4,7 @@ python -m venv venv
 .\venv\Scripts\activate  
 python -m pip install --upgrade pip  
 pip install -r requirements.txt  
-python mina.py
+python main.py
 
 เปิดอีก terminal(สำหรับfrontend)  
 ลงNode.js -> nodejs.org  
