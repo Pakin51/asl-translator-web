@@ -1,4 +1,4 @@
-เปิด terminal(สำหรับbackend)
+เปิด terminal(สำหรับbackend)  
 cd .\Backend\  
 python -m venv venv  
 .\venv\Scripts\activate  
