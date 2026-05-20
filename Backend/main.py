@@ -21,8 +21,8 @@ from pydantic import BaseModel
 # ──────────────────────────────────────────────
 # CONFIG — แก้ path ให้ตรงกับเครื่อง
 # ──────────────────────────────────────────────
-MODEL_PATH    = "../asl_model_output/asl_model.keras"
-LABEL_MAP_PATH = "../asl_model_output/label_map.json"
+MODEL_PATH    = "./asl_model_output/asl_model.keras"
+LABEL_MAP_PATH = "./asl_model_output/label_map.json"
 
 # ──────────────────────────────────────────────
 # LOAD MODEL & LABELS
