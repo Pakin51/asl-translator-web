@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState, useCallback } from "react";
 
-const API_URL = "http://localhost:8000/predict";
+const API_URL = "https://pakin51-asl-backend.hf.space/predict";
 const CAPTURE_INTERVAL_MS = 150; // ส่งภาพทุก 150ms (~6fps) — ปรับได้
 
 export default function App() {
